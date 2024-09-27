@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=gradient&size=50&center=true&vCenter=true&width=1000&lines=Hello+Devs,+Welcome!;My+name's+Emanuel+Hebert!;I'm+21+years+old!;I'm+from+Brazil.;I+study+Science+Computer.;Come+back+anytime!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=gradient&size=50&center=true&vCenter=true&width=1000&lines=Hello+Devs,+Welcome!;My+name's+Emanuel+Hebert!;I'm+22+years+old!;I'm+from+Brazil.;I+study+Science+Computer.;Come+back+anytime!+:%29)](https://git.io/typing-svg)
 
 ## Statics
 <div>
